@@ -84,11 +84,19 @@
 
 ###
 
+<h6 align="left"></h6>
+
+###
+
 <h2 align="left">Professional Goals 🚀</h2>
 
 ###
 
 <p align="left">✨ Career Development: Focused on furthering my career in software development, specifically in roles that leverage my leadership experience and technical skills in building impactful tech solutions.<br><br>🎯 Goals: Committed to ongoing professional development by staying updated with the latest tech trends and advancing my coding skills. 📈<br><br>🎲 Fun fact: Making mistakes are an essential part of learning</p>
+
+###
+
+<h6 align="left"></h6>
 
 ###
 
@@ -107,6 +115,10 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
 </div>
+
+###
+
+<h6 align="left"></h6>
 
 ###
 
